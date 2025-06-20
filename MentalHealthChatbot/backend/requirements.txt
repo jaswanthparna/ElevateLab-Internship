@@ -1,0 +1,1 @@
+npm i express dotenv body-parser colors joi jsonwebtoken mongoose cors nodemon  bcrypt
